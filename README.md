@@ -1,1 +1,1 @@
-# cnn-image-classification
+# CNNs for Image Classification
